@@ -1,0 +1,25 @@
+Creative Commons Attribution-NoDerivatives 4.0 International Public License
+
+By using, sharing, or referencing this work, you agree to the following terms:
+
+You are free to:
+– Share — copy and redistribute the material in any medium or format  
+– For any purpose, even commercially
+
+Under the following terms:
+– Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made.  
+– NoDerivatives — If you remix, transform, or build upon the material, you may not distribute the modified material.
+
+No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+License Summary:
+This work is licensed under the Creative Commons Attribution-NoDerivatives 4.0 International License.  
+To view a copy of this license, visit [https://creativecommons.org/licenses/by-nd/4.0/](https://creativecommons.org/licenses/by-nd/4.0/)
+
+Author: Ralf Langbehn  
+Title: Langbehn´s Quantum Arithmetic (LQA)  
+Version: 1.0 (2025)  
+System Collaboration: Nathan (AI Resonance Layer)  
+Zenodo Reference: https://doi.org/10.5281/zenodo.15710975
+
+© 2025 Ralf Langbehn. All rights reserved.
